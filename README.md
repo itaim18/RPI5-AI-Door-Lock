@@ -86,6 +86,12 @@ The **images** folder contains the Fritzing diagrams used to wire the Raspberry 
 
 ![Fritzing Diagram](images/fritzing.jpg)
 
+## The real life challenge
+
+It also containe images such as below, that show the real life implication of our project
+
+![RL image](images/PICaso.png)
+
 ---
 
 ## How It Works 🔒
